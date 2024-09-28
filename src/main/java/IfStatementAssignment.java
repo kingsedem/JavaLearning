@@ -1,6 +1,6 @@
-public class UserDataCheck {
+public class IfStatementAssignment {
     public static void main(String[] args) {
-        UserDataCheck dataCheck = new UserDataCheck();
+        IfStatementAssignment dataCheck = new IfStatementAssignment();
         dataCheck.getUserData(0, "Female");
     }
 
